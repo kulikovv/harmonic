@@ -23,7 +23,19 @@ Our approach describes each object instance using an expectation of a limited nu
 ### Citing
 If you used our research, we kindly ask you to cite the corresponding [paper](https://arxiv.org/abs/1904.05257).
 ```
-TODO
+@ARTICLE{2019arXiv190405257K,
+       author = {{Kulikov}, Victor and {Lempitsky}, Victor},
+        title = "{Instance Segmentation of Biological Images Using Harmonic Embeddings}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Computer Vision and Pattern Recognition},
+         year = "2019",
+        month = "Apr",
+          eid = {arXiv:1904.05257},
+        pages = {arXiv:1904.05257},
+archivePrefix = {arXiv},
+       eprint = {1904.05257},
+ primaryClass = {cs.CV}
+}
 ```
 
 ### Acknowledgements 
