@@ -21,20 +21,14 @@ Our approach describes each object instance using an expectation of a limited nu
 - Victor Lempitsky
 
 ### Citing
-If you used our research, we kindly ask you to cite the corresponding [paper](https://arxiv.org/abs/1904.05257).
+If you used our research, we kindly ask you to cite the corresponding [paper](https://conferences.computer.org/cvpr/pdfs/CVPR2020-1XMljIyuXWg2zC9bnL19Tw/716800d842/716800d842.pdf).
 ```
-@ARTICLE{2019arXiv190405257K,
-       author = {{Kulikov}, Victor and {Lempitsky}, Victor},
-        title = "{Instance Segmentation of Biological Images Using Harmonic Embeddings}",
-      journal = {arXiv e-prints},
-     keywords = {Computer Science - Computer Vision and Pattern Recognition},
-         year = "2019",
-        month = "Apr",
-          eid = {arXiv:1904.05257},
-        pages = {arXiv:1904.05257},
-archivePrefix = {arXiv},
-       eprint = {1904.05257},
- primaryClass = {cs.CV}
+@inproceedings{kulikov2020instance,
+  title={Instance segmentation of biological images using harmonic embeddings},
+  author={Kulikov, Victor and Lempitsky, Victor},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3843--3851},
+  year={2020}
 }
 ```
 
